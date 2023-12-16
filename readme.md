@@ -7,3 +7,5 @@ PySpark Experimentations
 3) #3.ipynb - Basic Linear Regression model
 
 4) #4.ipynb - Prediction of bill based on multiple features. Convert string values into numbers.
+
+5) #5.ipynb - practice spark functions form Book - https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
